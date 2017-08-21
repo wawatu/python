@@ -23,3 +23,8 @@ def main():
 	slist = []
 	getStockList(slist, stock_list_url)
 	getStockInfo(slist, stock_info_url)
+	
+	
+	
+	
+	
